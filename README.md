@@ -12,11 +12,15 @@ AES is a symmetric encryption algorithm that uses a block cipher to encrypt and 
 
 AES uses a key to encrypt and decrypt data. The key can be either 128, 192, or 256 bits long. The longer the key, the more secure the encryption.
 
+![AES Overview](./Screenshot_AES_Enc.jpg)
+
 ## DES (Data Encryption Standard)
 
 DES is a symmetric encryption algorithm that was developed by IBM in the 1970s. It uses a block cipher to encrypt and decrypt data.
 
 DES uses a key to encrypt and decrypt data. The key is 56 bits long, which makes it less secure than modern encryption algorithms like AES.
+
+![DES Overview](./Screenshot_DES_Enc.jpg)
 
 ## RSA (Rivest–Shamir–Adleman)
 
@@ -25,3 +29,5 @@ RSA is an asymmetric encryption algorithm that uses a public key to encrypt data
 RSA is widely used for secure data transmission and digital signatures. It is considered to be one of the most secure encryption algorithms available today.
 
 RSA uses a key pair consisting of a public key and a private key. The public key is used to encrypt data, while the private key is used to decrypt data. The keys are mathematically related, but it is virtually impossible to derive the private key from the public key.
+
+![RSA Overview](./Screenshot_RSA_Enc.jpg)
